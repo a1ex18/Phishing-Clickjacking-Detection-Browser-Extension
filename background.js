@@ -26,7 +26,7 @@ async function loadPhishingPatterns() {
 loadPhishingPatterns();
 
 async function checkUrlWithGoogleSafeBrowsing(url) {
-  const apiKey = "AIzaSyDcle4eVt7i39KnZ57vi0iK8qX8WQpA5LU";
+  const apiKey = process.env.GOOGLE_API_KEY;
   const apiUrl = `https://safebrowsing.googleapis.com/v4/threatMatches:find?key=${apiKey}`;
 
   const requestBody = {
