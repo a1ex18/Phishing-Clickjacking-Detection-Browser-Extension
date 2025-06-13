@@ -80,5 +80,8 @@ Workflow
 4. Extracted links are passed to the background script for phishing validation.
 5. Results are returned to the popup and displayed with visual indicators.
 
+   Extra: For All phisihing links refer<https://github.com/Phishing-Database>
+
 1. Clone or download this repository:
    git clone https://github.com/a1ex18/Phishing-Clickjacking-Detection-Browser-Extension.git
+   
