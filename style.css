@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 10px;
+}
+
+h1 {
+  font-size: 20px;
+  margin-bottom: 11px;
+}
+
+#scan {
+  padding: 5px 10px;
+  font-size: 14px;
+}
+
+#results {
+  list-style-type: decimal;
+  padding: 0;
+}
+
+#results li {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 10px;
+}
