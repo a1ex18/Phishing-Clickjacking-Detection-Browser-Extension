@@ -85,3 +85,9 @@ Workflow
 1. Clone or download this repository:
    git clone https://github.com/a1ex18/Phishing-Clickjacking-Detection-Browser-Extension.git
    
+
+DEMO
+
+
+https://github.com/user-attachments/assets/6d40e684-6b62-474d-acfb-005fee4974a0
+
